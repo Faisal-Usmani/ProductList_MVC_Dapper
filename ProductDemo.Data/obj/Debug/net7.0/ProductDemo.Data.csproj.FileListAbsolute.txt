@@ -1,0 +1,12 @@
+E:\REST API\ProductDemo\ProductDemo.Data\bin\Debug\net7.0\ProductDemo.Data.deps.json
+E:\REST API\ProductDemo\ProductDemo.Data\bin\Debug\net7.0\ProductDemo.Data.dll
+E:\REST API\ProductDemo\ProductDemo.Data\bin\Debug\net7.0\ProductDemo.Data.pdb
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.csproj.AssemblyReference.cache
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.AssemblyInfoInputs.cache
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.AssemblyInfo.cs
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.csproj.CoreCompileInputs.cache
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.dll
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\refint\ProductDemo.Data.dll
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ProductDemo.Data.pdb
+E:\REST API\ProductDemo\ProductDemo.Data\obj\Debug\net7.0\ref\ProductDemo.Data.dll

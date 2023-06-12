@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<Product>
+@{
+  
+}
+
+<h3>Products List</h3>
+<div class="my-2">
+    <a href="/Product/Add" class="btn btn-info">ADD More</a>
+
+    <table class="table table-stiped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>
+                        <a href="/Product/Edit?id=@product.Id" class=" btn btn-success">Edit</a>
+                        <a href="/Product/Delete?id=@product.Id" onclick="return window.confirm('Are You sure to delete this record')" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

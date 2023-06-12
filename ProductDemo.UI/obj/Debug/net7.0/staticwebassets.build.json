@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "OviAQ5T/N4WkqD3UPYuUwr6/RwuSdB7vSyXoxe3Wdo0=",
+  "Source": "ProductDemo.UI",
+  "BasePath": "_content/ProductDemo.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductDemo.UI\\wwwroot",
+      "Source": "ProductDemo.UI",
+      "ContentRoot": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\wwwroot\\",
+      "BasePath": "_content/ProductDemo.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProductDemo.UI.styles.css",
+      "SourceId": "ProductDemo.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ProductDemo.UI",
+      "RelativePath": "ProductDemo.UI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProductDemo.UI.styles.css"
+    },
+    {
+      "Identity": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProductDemo.UI.bundle.scp.css",
+      "SourceId": "ProductDemo.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ProductDemo.UI",
+      "RelativePath": "ProductDemo.UI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProductDemo.UI.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\wwwroot\\favicon.ico",
+      "SourceId": "ProductDemo.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\REST API\\ProductDemo\\ProductDemo.UI\\wwwroot\\",
+      "BasePath": "_content/ProductDemo.UI",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
